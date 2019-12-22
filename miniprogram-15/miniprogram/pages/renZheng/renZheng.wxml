@@ -1,0 +1,14 @@
+<view>大棚认证进行时</view>
+<view class="tips">请输入您的大棚设备id：</view>
+<view class="input-wrap">
+<input class="input1" bindinput="input1"></input>
+</view>
+<view>请输入您的api_key：</view>
+<input class="input2" bindinput="input2"></input>
+<button bindtap="bind" class="bind">一键绑定</button>
+<text>
+温馨提示：每个大棚仅需绑定一次，如果已经绑定过了的话可以跳过此步
+点击绑定后重启小程序即可正常使用
+</text>
+<image class='background-image' src='../../images/Greenhouse.jpg' mode="aspectFill"></image>
+

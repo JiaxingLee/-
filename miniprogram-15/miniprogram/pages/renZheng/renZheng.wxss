@@ -1,0 +1,25 @@
+.input1{
+  width:100px;
+  border:1px solid green;
+}
+.input2{
+  width:200px;
+  border:1px solid green;
+}
+.bind{
+  margin-top:20px;
+  color:green;
+  width: 80%;
+  background-color: rgb(252, 126, 67);
+  border-radius: 98rpx;
+  background: bg_red;
+}
+.background-image{
+   height : 100%;
+    position: fixed;
+    width: 100%;
+    left: 0px;
+    top: 0px;
+    z-index: -1; 
+}
+

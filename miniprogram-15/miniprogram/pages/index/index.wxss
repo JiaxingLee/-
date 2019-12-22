@@ -1,0 +1,60 @@
+.line1{
+text-align:center;
+font-size:20px;
+margin-top:40px;
+color:green;
+}
+
+.renZheng{
+  margin-top:20px;
+  color:green;
+  width: 80%;
+  background-color: rgb(252, 126, 67);
+  border-radius: 98rpx;
+  background: bg_red;
+}
+
+.shiCha{
+  margin-top:20px;
+  color:green;
+  width: 80%;
+  background-color: rgb(252, 126, 67);
+  border-radius: 98rpx;
+  background: bg_red;
+}
+
+.guanLi{
+  margin-top:20px;
+   color:green;
+}
+
+.line2{
+  text-align:center;
+  font-size:20px;
+  color:green;
+}
+
+
+.background-image{
+   height : 100%;
+    position: fixed;
+    width: 100%;
+    left: 0px;
+    top: 0px;
+    z-index: -1; 
+}
+
+ 
+/* 按下变颜色 */
+.hover {
+  background:  rgba(230, 20, 48, 0.315);
+}
+
+.line2 {
+  font-size: 74rpx;
+  font-weight: bold;
+  background: linear-gradient(to right, #ddd347, #bb1d5f);
+  -webkit-background-clip: text;
+  background-clip: text;
+  color: transparent;
+}

@@ -1,0 +1,8 @@
+<view class="line1">{{nickName}}</view>
+<view class="line2">欢迎来到智能大棚！</view>
+
+<button class="renZheng" bindtap="renZheng">大棚认证</button>
+
+<button class="shiCha" bindtap="shiCha">大棚视察</button>
+
+<image class='background-image' src='../../images/Greenhouse.jpg' mode="aspectFill"></image>

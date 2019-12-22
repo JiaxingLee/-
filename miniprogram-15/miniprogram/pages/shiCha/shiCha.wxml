@@ -1,0 +1,9 @@
+
+<view>温度：{{tempreture}}</view>
+<view>空气湿度：{{airHumidity}}</view>
+<view>光照强度：{{illumination}}</view>
+<view>土壤湿度：{{soilHumidity}}</view>
+<button bindtap="fan">排气扇</button>
+<button bindtap="water">浇水</button>
+<button bindtap="sunshine">遮阳</button>
+<image class='background-image' src='../../images/Greenhouse.jpg' mode="aspectFill"></image>
